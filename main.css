@@ -29,7 +29,7 @@ div {
 
 @media only screen and (max-width: 300px) {
 	body {
-		background-color: blue;
+		background-color: red;
 	}
 
 	.grid1 {
@@ -60,7 +60,6 @@ div {
 		display: block;
 		max-width: unset;
 		grid-column: span 2;
-
 	}
 	/*#small {
 		display: none;
@@ -74,7 +73,7 @@ div {
 
 @media only screen and (min-width: 768px) {
 	body {
-	background-color: tomato;
+	background-color: blue;
 	}
 
 	.grid1 {
